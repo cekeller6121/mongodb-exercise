@@ -1,0 +1,26 @@
+.users {
+  color: CadetBlue;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+
+.users h3 {
+  margin-bottom: 10px;
+}
+
+.users li {
+  list-style: none;
+  /*padding: 1px;*/
+  text-align: center;
+}
+
+ul {
+  border: 1px solid LightGray;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.users a {
+  color: CadetBlue;
+  text-decoration: none;
+}
